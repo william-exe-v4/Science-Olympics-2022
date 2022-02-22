@@ -4,6 +4,7 @@ jobs:
     docker: 
       - image: cimg/base:2021.04
     steps: 
+      - run: git pull
       - checkout
       - run: sudo apt update -y
       - run: sudo apt upgrade -y
