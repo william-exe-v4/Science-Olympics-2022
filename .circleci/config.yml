@@ -4,7 +4,8 @@ jobs:
     docker: 
       - image: cimg/base:2021.04
     steps: 
-      - checkout
+      - run: git clone https://github.com/william-exe-v4/Science-Olympics-2022-stretcher.git
+      - run: cd Science-Olympics-2022-stretcher
       - run: git pull
       - run: sudo apt update -y
       - run: sudo apt upgrade -y
