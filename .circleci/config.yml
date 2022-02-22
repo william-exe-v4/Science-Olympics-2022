@@ -1,14 +1,16 @@
 version: 2.1
-commands: 
-	build: 
-		steps: 
-			- checkout
-			- run: sudo apt update -y
-			- run: sudo apt upgrade -y
-			- run: sudo apt install dia -y
-			- run: dia project.dxf -e project.png
-			- run: git config user.email "william.exe@posteo.net"
-			- run: git config user.name "William Zhang"
-			- git add project.png
-			- git commit
-			- git push
+jobs: 
+  build: 
+    docker: 
+      - image: cimg/base:2021.04
+    steps: 
+      - checkout
+      - run: sudo apt update -y
+      - run: sudo apt upgrade -y
+      - run: sudo apt install dia -y
+      - run: dia project.dxf -e project.png
+      - run: git config user.email "william.exe@posteo.net"
+      - run: git config user.name "William Zhang"
+      - run: git add project.png
+      - run: git commit
+      - run: git push
