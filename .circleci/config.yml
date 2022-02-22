@@ -9,6 +9,7 @@ jobs:
       - run: sudo apt update -y
       - run: sudo apt upgrade -y
       - run: sudo apt install dia -y
+      - run: rm project.png
       - run: dia project.dxf -e project.png
       - run: git config user.email "iap9eihbw@mozmail.com"
       - run: git config user.name "circle"
