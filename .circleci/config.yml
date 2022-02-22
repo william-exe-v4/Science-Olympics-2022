@@ -11,8 +11,6 @@ jobs:
       - run: dia project.dxf -e project.png
       - run: git config user.email "william.exe@posteo.net"
       - run: git config user.name "William Zhang"
-			- run: git config --global user.name "william-exe-v4-circleci"
-			- run: git config --global user
       - run: git add project.png
       - run: git commit -m "circleci png conversion"
       - run: git push https://william-exe-v4-circleci:$amogus@github.com/william-exe-v4/Science-Olympics-2022-stretcher.git
