@@ -4,8 +4,8 @@ jobs:
     docker: 
       - image: cimg/base:2021.04
     steps: 
-      - run: git pull
       - checkout
+      - run: git pull
       - run: sudo apt update -y
       - run: sudo apt upgrade -y
       - run: sudo apt install dia -y
