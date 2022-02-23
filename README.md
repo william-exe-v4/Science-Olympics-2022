@@ -32,4 +32,5 @@ Maintainers:
 Contributers: 
  - **Jason** from 9A
 
-In memory of **Jason Su** from 9A who was made to leave the Science Olympics by his parents
+In memory of **Jason Su** from 9A who was made to leave the Science Olympics by his parents. **We will continue your legacy** 
+<sup>*hopefully if I don't die from wrestling in gym</sup>
