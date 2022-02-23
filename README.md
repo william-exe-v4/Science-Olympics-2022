@@ -4,14 +4,11 @@
 
 ## Table of Contents
 
-[The Stretcher]('#The Stretcher')
-
-1. [Table of Contents]('##Table of Contents')
-2. [Overview](##Overview)
-3. [Composition](##Composition)
-4. [Mechanics](##Mechanics)
-5. [Usage](##Usage)
-6. [Credits](##Credits)
+1. [Overview](##Overview)
+2. [Composition](##Composition)
+3. [Mechanics](##Mechanics)
+4. [Usage](##Usage)
+5. [Credits](##Credits)
 
 ## Overview
 
