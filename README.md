@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-[The Stretcher](#The Stretcher)
+[The Stretcher]('#The Stretcher')
 
-1. [Table of Contents](##Table of Contents)
+1. [Table of Contents]('##Table of Contents')
 2. [Overview](##Overview)
 3. [Composition](##Composition)
 4. [Mechanics](##Mechanics)
