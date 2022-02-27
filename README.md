@@ -1,4 +1,11 @@
+# Science Olympics 2022
+
+This repo will host our work during the APEGA Science Olympics 2022. So yeah, here comes our chance to kick Grandview's *ss again. 
+
+
+
 # The Stretcher
+
 ![stretcher design](https://raw.githubusercontent.com/william-exe-v4/Science-Olympics-2022-stretcher/main/project.png)
 
 ## Table of Contents
