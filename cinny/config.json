@@ -1,0 +1,6 @@
+{
+  "defaultHomeserver": 1,
+  "homeserverList": [
+    "matrix.org"
+  ]
+}
